@@ -1,0 +1,29 @@
+﻿/* HTML5 Version By */
+
+Jessie Dommert [Dommert@Gmail.com]
+
+David Monaghan [Monaghan.David@Gmail.com]
+
+AllStruck
+Site: http://allstruck.com/
+Twitter: @allstruck
+Location: Chandler, AZ USA
+
+
+
+--------------------------------------------
+/* C# TEAM */
+
+Mads Kristensen
+Site: http://madskristensen.net/
+Twitter: @mkristensen
+Location: Seattle, WA USA
+
+Sayed Ibrahim Hashimi
+Site: http://sedodream.com/
+Twitter: @sayedihashimi
+Location: Seattle, WA USA     
+
+Supervisor Joost
+Site: http://supervisorjoost.com/
+Location: Seattle, WA USA
