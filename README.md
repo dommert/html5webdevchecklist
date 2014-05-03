@@ -4,8 +4,9 @@ Converted from C# to HTML5 because C# sucks!
 
 Converted By:
 
-Jessie Dommert
-David Monaghan
+Jessie Dommert (DommertEnterprises@gmail.com)
+David Monaghan (David@Allstruck.com)
+
 **AllStruck**
 http://allstruck.com/
 @allstruck
